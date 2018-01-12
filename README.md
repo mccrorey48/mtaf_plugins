@@ -3,7 +3,7 @@
 These are example plugins for use with mtaf-inspector.
 
 The mtaf-inspector executable is installed by "pip install mtaf" (see
-pypi.org/project/mtaf for a more information)).  It provides a GUI for
+pypi.org/project/mtaf for a more information).  It provides a GUI for
 interacting with a connected Android  device (or emulator), with screen capture
 and displayed-element analysis capability to assist in writing Appium tests in
 Python for Android devices.
